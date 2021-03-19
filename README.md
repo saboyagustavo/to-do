@@ -15,3 +15,5 @@ You must implement on this file functionalities to three following functions:
 -   [x] **handleRemoveTask:** Must receive an ID as parameter and delete the task with the corresponding ID.
 
 ### Testing the application
+
+![tests](https://user-images.githubusercontent.com/64825005/111836169-a48bc600-88d4-11eb-8856-2423523915d2.png)
